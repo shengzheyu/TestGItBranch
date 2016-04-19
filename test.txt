@@ -1,7 +1,6 @@
 test by zy @ 2016.4.19
-<<<<<<< HEAD
 test by cqq 
 test 3rd
-=======
 cqq
->>>>>>> cqq
+2016
+
